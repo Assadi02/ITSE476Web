@@ -6,6 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="social-media">
           <a href="https://www.facebook.com/uOBooks/" target="_blank" rel="noopener noreferrer">Facebook</a>
+          
           <a href="https://twitter.com/UOBooks" target="_blank" rel="noopener noreferrer">Twitter</a>
         </div>
         <p>© 2024 UOBooks. All rights reserved.</p>
