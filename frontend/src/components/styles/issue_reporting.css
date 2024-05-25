@@ -1,0 +1,56 @@
+
+.issues-reporting-container {
+    padding: 20px;
+    margin: 40px;
+    background-color: rgb(240, 210, 180);
+    border: 1px solid rgb(235, 242, 243);
+  }
+
+.issues-reporting-container p{
+  font-size: 2.5rem;
+  color: #0d0d0d;
+}
+
+.issues-reporting-container p:hover{
+  color: #a31809;
+}
+  .form-group {
+    margin: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-group textarea {
+    resize: vertical;
+  }
+  
+  form button {
+    padding: 20px;
+    font-size: 2rem;
+    background-color: #4b0f69;
+    color: #f6f2f2;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+    color: #fff;
+  }
+  

@@ -1,0 +1,29 @@
+
+.github-container {
+    padding: 20px;
+    margin: 40px;
+    background-color : rgb(240, 210, 180);
+    border: 1px solid rgb(235, 242, 243);
+  }
+  
+  .github-container p {
+    font-size: 2rem;
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .github-container a {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 2rem;
+    background-color: #4b0f69;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .github-container a:hover {
+    background-color: #2a8bec;
+    color: black;
+  }
+  

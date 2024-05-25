@@ -1,0 +1,27 @@
+.participation-container {
+  padding: 20px;
+  background-color:rgb(240, 210, 180);
+  border: 1px solid rgb(235, 242, 243);
+  margin: 40px;
+}
+
+.instruction-heading {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .instruction-content {
+    font-size: 2rem;
+    background-color: #C8A2C8;
+    color: #666; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   
+    margin-bottom: 20px;
+  }
+  
+  .instruction-heading:hover {
+    color: #a31809;
+  }

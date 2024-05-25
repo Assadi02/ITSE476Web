@@ -1,0 +1,18 @@
+
+.download a {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 2rem;
+   background-color: #4b0f69;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.download a:hover {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 2rem;
+  background-color: #3300ff;
+  color: aqua;
+  text-decoration: none;
+  border-radius: 5px;
+}

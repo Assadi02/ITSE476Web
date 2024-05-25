@@ -1,0 +1,43 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #4b0f69;
+    color: white;
+    margin: 40px;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .social-media {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px; /* Margin below social media icons */
+  }
+  
+  .social-media a {
+    background-color: #3d3788;
+    color: #b78383; /* Color of social media icons */
+    font-size: 44px; /* Size of social media icons */
+    margin: 10px; /* Spacing between social media icons */
+    transition: color 0.3s; /* Smooth transition for color change on hover */
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .social-media a:hover {
+    color: #ceb998;
+    background-color: #5f642f;
+  }
+  
+  .container p {
+    margin: 0; 
+    font-size: 2rem;
+    text-align: center;
+  }
+  

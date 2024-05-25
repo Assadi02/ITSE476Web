@@ -1,0 +1,33 @@
+
+.announcements-container {
+    padding: 20px;
+    margin: 40px;
+    background-color:rgb(240, 210, 180);
+    border: 1px solid rgb(0, 221, 255);
+  }
+  
+  .announcement-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .announcement-card {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .announcement-card h3 {
+    font-size: 3.2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .announcement-card p {
+    font-size: 2rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
